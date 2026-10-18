@@ -18,7 +18,7 @@ El siguiente repositorio aloja el desarrollo de la Evaluación Integral de Desem
 - **Versión de Python**: 3.14
 - **Versión de Manim**: 0.18.0
 - **Dependencias adicionales**: Numpy, Scipy.
-- **Programas externos para generación de video:** FFmpeg, MiKTeX.
+- **Programas externos para generación de video:** FFmpeg.
 
 
 ### Escenas
