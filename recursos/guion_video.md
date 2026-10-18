@@ -14,7 +14,7 @@
 
 **Diego (0:00–0:23):** Hola, somos el grupo 8: Diego, Sebastián y David. Nuestro tema es el Teorema Fundamental del Cálculo. En pantalla están las cuatro preguntas que guían el video: primero, ¿qué representa la integral de una tasa de cambio?; segundo, ¿la cantidad acumulada es siempre la cantidad final del sistema?; tercero, ¿cómo cambia la acumulación al ampliar el límite superior $x$?; y cuarto, la pregunta central de la pauta: ¿por qué la derivada de la acumulación es igual a la función original? Nos vamos a detener en las dos últimas: una describe cómo crece el acumulado, y la otra explica por qué su derivada lo deshace.
 
-**Sebastián (0:23–0:32):** En pantalla tenemos el ejemplo que atraviesa todo el video: un vehículo con aceleración constante de 2 km/h², cuya velocidad es $v(t)=2t$. Para cuantificar lo que se acumula nos apoyamos en el **Primer Teorema del Cálculo**, que evalúa la integral como la diferencia de una antiderivada.
+**Sebastián (0:23–0:32):** En todo el video usamos el ejemplo del vehículo con velocidad $v(t)=2t$. Para medir su acumulación usamos el Primer Teorema del Cálculo.
 
 ---
 
