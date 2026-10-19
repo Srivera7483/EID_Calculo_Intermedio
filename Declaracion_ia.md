@@ -23,3 +23,10 @@ Se usó inteligencia artificial para apoyar en la comprensión de conceptos teó
 * **Propósito del uso:** Apoyo en el ajuste, ampliación y extensión del contenido y ritmo del video original para garantizar una explicación pedagógica completa y una duración adecuada.
 * **Partes apoyadas:** Distribución de tiempos, diseño de pausas, transiciones y estructuración modular de las escenas para expandir el contenido audiovisual sin perder fluidez.
 * **Método de verificación:** Medición de tiempos de cada escena, cronometraje del video final ensamblado y revisión pedagógica del contenido ampliado.
+
+**Uso de IA para la organización de los tiempos del guion**
+* **Propósito del uso:** Utilizar inteligencia artificial como apoyo para organizar y distribuir los tiempos de los diálogos del guion, buscando mantener una duración adecuada para cada intervención y una explicación coherente con el desarrollo del video.
+
+* **Partes apoyadas:** Se utilizó la IA para ajustar la duración estimada de los diálogos y organizar su distribución temporal, procurando que cada intervención se correspondiera con las escenas y los contenidos presentados en el video.
+
+* **Método de verificación:** Se revisó el guion en relación con las escenas del video y se comprobó que los tiempos asignados permitieran leer los diálogos de manera clara, manteniendo la coherencia entre la narración y el contenido audiovisual.
